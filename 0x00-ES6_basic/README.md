@@ -1,4 +1,4 @@
-# 0x0E. ES6 Basics
+# 0x00. ES6 Basics
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
 :copyright: **[Alx Africa](https://www.alxafrica.com/)**  

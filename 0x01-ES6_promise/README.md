@@ -1,4 +1,4 @@
-# 0x0F. ES6 Promises
+# 0x01. ES6 Promises
 :open_file_folder: Specializations - Web Stack programming ― Back-end  
 :bust_in_silhouette: by Johann Kerbrat, Engineering Manager at Uber Works  
 :copyright: **[Alx Africa](https://www.alxafrica.com/)**  
